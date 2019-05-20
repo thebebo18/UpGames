@@ -1,0 +1,1 @@
+c:\ferromdb>jar cvfm upGames.jar MessAgent.mf *.class controlador\*.class modelo\*.class vista\*.class

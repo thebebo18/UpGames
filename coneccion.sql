@@ -1,0 +1,1 @@
+CONNECT 'jdbc:derby://localhost:1527/DB;bootPassword=clo760uds2caPe;user=master;password=123456';

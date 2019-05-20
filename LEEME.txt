@@ -1,0 +1,63 @@
+USO DE LA APLICACION.
+
+INSTALACION:
+
+next, next....
+
+nota: debe tener una conxion de internet para descargar java y mysql server.
+digo esto en el caso de que no tenga conexion. porque pueda ser que sea en un
+dispocitivo fisico la instalacion
+
+CONFIGURACION DE LA BASE DE DATOS.
+
+el puerto debe de ser localhost y el password JoseMoreno01,
+luego debe de insertar los script de sql en la termial de 
+mysql sever. Segun el orden acontinuacion:
+
+	1.creardb.sql
+	2.permisos.sql
+	3.tablas.sql
+	4.poblar.sql
+
+COMO ENTRAR?.
+
+esta aplicacion tiene dos unicos usuarios predeterminados, los cuales son:
+
+username: admin
+password: 123456
+
+	y
+
+username: cajero
+password: 123456 
+
+el primero tiene mas opciones que segundo.
+
+CODIGOS DE LOS ARTICULOS.
+
+aqui estan los codigo para la indentificacion y la venta de
+los diferentes articulos:
+
+       890987655, 'Dragon Ball z'
+       897654340, 'PUBG'
+       098654345, 'GT'
+       987694545, 'FALLOUT 4'
+       023654686, 'RESIDENT ELVI 2'
+       847403874, 'FORNITE'
+       374893749, 'CAD'
+       960484069, 'LEGENG OF ZELDA'
+       352846595, 'TOMRAIDER'
+       960474596, 'KILLER INTIS'
+       657906939, 'DELVI MY CRAY'
+       757684894, 'RAIBOM SIX'
+       534254645, 'DELVI MY CRAY'
+       869595858, 'Super Scope'
+       656484849, 'LEGENG OF ZELDA'
+       524242535, 'XBOX ONE PLUS'
+       096896858, 'Play Station 4'
+       746474899, 'GT2'
+       242474778, 'RESIDENT ELVI 4'
+       869585990, 'GT5'
+
+con estos usted podra testear mi aplicacion.
+

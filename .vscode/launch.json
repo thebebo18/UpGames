@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Skeleton0",
+            "request": "launch",
+            "mainClass": "Skeleton0",
+            "projectName": "ferromdb_2f4d39da"
+        }
+    ]
+}
